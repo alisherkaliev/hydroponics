@@ -365,12 +365,6 @@ body {
 	/* margin-top: 10px; */
 }
 
-#row3 .box p {
-  font-size: 190%; /* Увеличиваем размер текста на 200% */
-}
-
-
-
 
 
 
@@ -493,16 +487,12 @@ body {
 
 
 
-.container {
-  transform: scale(2);
-}
-
 .switch {
   position: relative;
   display: inline-block;
-  margin-top: 5%;
-  width: 120px; /* Увеличенный размер - 60px * 2 = 120px */
-  height: 68px; /* Увеличенный размер - 34px * 2 = 68px */
+	margin-top: 5%;
+  width: 60px;
+  height: 34px;
 }
 
 /* Hide default HTML checkbox */
@@ -521,17 +511,19 @@ body {
   right: 0;
   bottom: 0;
   background-color: #ccc;
+  -webkit-transition: .4s;
   transition: .4s;
 }
 
 .slider:before {
   position: absolute;
   content: "";
-  height: 52px; /* Увеличенный размер - 26px * 2 = 52px */
-  width: 52px; /* Увеличенный размер - 26px * 2 = 52px */
-  left: 8px; /* Увеличенный размер - 4px * 2 = 8px */
-  bottom: 8px; /* Увеличенный размер - 4px * 2 = 8px */
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
   background-color: white;
+  -webkit-transition: .4s;
   transition: .4s;
 }
 
@@ -544,22 +536,23 @@ input:focus + .slider {
 }
 
 input:checked + .slider:before {
-  transform: translateX(52px); /* Увеличенный размер - 26px * 2 = 52px */
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
 }
 
 /* Rounded sliders */
 .slider.round {
-  border-radius: 68px; /* Увеличенный размер - 34px * 2 = 68px */
+  border-radius: 34px;
 }
 
 .slider.round:before {
-  border-radius: 100%; /* Круглый элемент */
+  border-radius: 50%;
 }
 
-.tire {
-  display: none;
+.tire{
+	display: none;
 }
-
 
 
 
