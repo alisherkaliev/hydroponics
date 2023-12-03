@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hydroponics-48941",
+  "private_key_id": "86da07990e5fc5ea62fdf24e98a89b4144115695",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQb7luZytFlNwd\nnVPz7FsZonatiJn6hOUMv0nnmWf41A+bbstbnIl7VYVX6L4oxLWgMrYI+2izUv4K\n52kSlPvvXTeckjwSWCCl79KDoo+YAuLlimrCHH4fYRUn1xryiy/2seZvcNliA0p/\no4n4rfNjs6yj4ePm9sYOSn749kLa9jEXed062Ha8r7O4O3I9KYI/hGGAao6XEAjG\nYKBtj8THJM/M3iEDHFzNheTZka8mGu9BxAme1zInBWiqDIf7rC9lKmi2Wi4ltHD2\n9kk7Z5sKHFqW/eO9qsk7IzJmefyaFdQxB/TglmVtwgfFeaLcDsLUrf4usq52C+1n\n8LZfI0PBAgMBAAECggEAB79uf30aRZ/AFPiZBccideQQoKtosxcI4F+se7dva9oY\nQjq1vuLNPyftwLLz7GTs5zyBJkcyLRhhFz2llcEXKJZkAsqXXVaL3crZDIWeVUWm\nXTDJHEOCAnXnOB1iTStpNb8CQO0ZRBgwGVuw7X2LRkhflOTroDqRkjetyvYOzQb+\nJrW8kv/ScsGD2SYMR56KG1ugS7HGI4GzNNiyEDHOur8h0gmJIS/MbvUN+Es3qt7u\n3I8mrduXBcz333dTmU8JO/HCPzaL5FQfZQnP865JPz4Fnq05lVAF+D9YmtQ+bEOR\nJLPfmm0+jlEzlT27hmDnEM072sruI4FgOHsftpJP6QKBgQDCA+ETKv9J7fUv4jGc\nfmhM4dd33mOIEeptP9fUpJRomRPPbygoCDoMM32L6fF1V+eRIcIzU7VX03LgYN8A\nnb7OKFviXPSeKqBQDXueLzyl4ZccaAjEva+f/hMgRI66lYejRKH0R0Nm4tE3fylJ\ncB67eZ+1a0p26fGJnd/feXjBHQKBgQC+lOXGserpHYXbt+X542WC2rDoFJGdYisg\nWLN5sCjXiKDtDmuAaOJqUzc2biM7gqRnhPjA64kxkr6mHE5UYf7RM0SNfNbBCM3g\nhvAqHpxFeiHtDA0rVxpYFCaxO3Qa/EqC5kfCdhcZzzo5SSrT0xfK77JfoIFhpGM6\n6T6FJFzP9QKBgHl0ujsoqKZcbCisvogMbjjrDNtCgiaVqJ7536CD41BTvB4YpRfi\nhoxK06Z6LqlZ/WJSsuM03Qp9GaYznochOWiPxW3A6XX2k2Np/WA6jAoAXnvu+MZJ\nRR+wi8KgiIVvxHjGJ2joD97h0T2fwnXx1ZtheUS2ROiKbaXMCnE49wpVAoGANx5F\nHiQStnztW9Bh2NWlZCTviQ951bSwmFhO/+CszzkaobTL7oVnBi0vCLTtx6ZO+gmB\nD/qO4SF5tfz1wn3c/o//QZRbX9S2BjvAdc4IkCd0bGRR4rj8S4D4d8WkHLHesuD6\n3AjfQX2nby30DvM8LFsKkZGQGbc7Y6xVgpgzp4kCgYEAhUwOc0VA7xibNBJTqUo6\nbxZtYTuwhb/ww3ZuYoUsgjfjgp6Obw65/G6FWTXBJdds+N3c6joLxYAdM9resD/f\nsbAvZV9S3GI5vfCAPSLyZFfntPY8LFnJVxIi9mQl2ztBqpxNqLQ6cU6CyF32c0JV\n+xvRXOLoeSMRnxT2QCVaPz4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-sf532@hydroponics-48941.iam.gserviceaccount.com",
+  "client_id": "102062655161380801897",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-sf532%40hydroponics-48941.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
